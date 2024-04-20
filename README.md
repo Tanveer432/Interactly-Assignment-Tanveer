@@ -19,14 +19,14 @@ This project implements CRUD (Create, Update, Delete) operations on a graph usin
 ## Features
 
 - After creating a Node
-- ![image](https://github.com/abhijeet-crypto/Interactly/assets/76946111/33dee254-b9a3-4e64-98b8-0ad9160f8a4a)
+- ![image](./public/Creating%20Nodes.png)
 
 - select edge or node that show red cross 
-- ![image](https://github.com/abhijeet-crypto/Interactly/assets/76946111/80813dfd-db78-498e-99c1-cf34db5de683)
+- ![image](./public/With%20X%20icon.png)
 
   
 - For delete the node or edge just click on red cross. After delete
-- ![image](https://github.com/abhijeet-crypto/Interactly/assets/76946111/7dcb0c76-2462-4887-8e67-adcff6f285a5)
+- ![image](./public/Delete%20Node.png)
 
 
 ## Getting Started
